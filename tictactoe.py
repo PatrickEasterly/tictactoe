@@ -29,7 +29,7 @@ def move(board, location, player):
 
     pass
 game_board = [
-    # [' ', ' ', ' '],
+    [' ', ' ', ' '],
     [' ', ' ', ' '],
     [' ', ' ', ' ']
 ]
